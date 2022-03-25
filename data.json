@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Daniel Francisco",
+      "email": "danielfrancisco@gmail.com"
+    },
+    {
+      "name": "Daniel Francisco",
+      "email": "danielfrancisco@gmail.com",
+      "id": 3
+    },
+    {
+      "email": "danielfrancisco@gmail.com",
+      "password": "secret",
+      "id": 4
+    }
+  ]
+}
